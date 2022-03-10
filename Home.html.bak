@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="_css/estilo.css"/>
 		<script>
 			function DestroiTerra() {
-				document.getElementById("Terra").src="_imagens/terradestruida.png";
+				document.getElementById("Terra").src="_imagens/terra_destruida.png";
 			}
 		</script>
 	</head>
