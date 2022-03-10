@@ -85,3 +85,9 @@ p{
 #estrela figcaption{
 	display: none;
 }
+#buraco img{
+	position: fixed;
+	width: 30%;
+	right: -5%;
+	top: 30%;
+}
