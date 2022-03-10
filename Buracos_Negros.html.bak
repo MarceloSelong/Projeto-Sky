@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html lang="PT-BR">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Projeto Sky</title>
+		<link rel="stylesheet" href="_css/estilo.css"/>
+	</head>
+	<body>
+		<header>
+			<div class="cabecalho">
+				<nav class="menu">
+					<ul>
+						<li><a href="Home.html">Home</a></li>
+						<li><a href="Estrelas.html">Estrelas</a></li>
+						<li><a href="Buracos_Negros.html">Buracos negros</a></li>
+						<li><a href="Gravidade.html">Gravidade</a></li>
+						<li><a href="Ondas_Gravitacionais.html">Ondas Gravitacionais</a></li>
+						<li><a href="Satelites.html">Satélites</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<div class="corpo">
+			<p>Buraco negro é uma região do espaço-tempo em que o campo gravitacional é tão intenso que nada — nenhuma partícula ou radiação eletromagnética como a luz — pode escapar.[6] A teoria da relatividade geral prevê que uma massa suficientemente compacta pode deformar o espaço-tempo para formar um buraco negro.[7][8] O limite da região da qual não é possível escapar é chamado de horizonte de eventos. Embora o horizonte de eventos tenha um efeito enorme sobre o destino e as circunstâncias de um objeto que o atravessa, não tem nenhuma característica local detectável.[9] De muitas maneiras, um buraco negro age como um corpo negro ideal, pois não reflete luz.[10][11] Além disso, a teoria quântica de campos no espaço-tempo curvo prevê que os horizontes de eventos emitem radiação Hawking, com o mesmo espectro que um corpo negro de temperatura inversamente proporcional à sua massa. Essa temperatura é da ordem dos bilionésimos de um kelvin para buracos negros de massa estelar, o que a torna praticamente impossível de observar.</p>
+			Objetos cujos campos gravitacionais são fortes demais para a luz escapar foram considerados pela primeira vez no século XVIII por John Michell e Pierre-Simon Laplace.[12] A primeira solução moderna da relatividade geral que caracterizaria um buraco negro foi encontrada por Karl Schwarzschild em 1916, embora sua interpretação como uma região do espaço da qual nada possa escapar tenha sido publicada pela primeira vez por David Finkelstein em 1958. Os buracos negros eram há muito considerados uma curiosidade matemática; foi na década de 1960 que o trabalho teórico mostrou que eram uma previsão genérica da relatividade geral. A descoberta de estrelas de nêutrons por Jocelyn Bell Burnell em 1967 despertou o interesse em objetos compactos em colapso gravitacional como uma possível realidade astrofísica. 
+		</div>
+	</body>
+</html>

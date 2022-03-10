@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html lang="PT-BR">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Projeto Sky</title>
+		<link rel="stylesheet" href="_css/estilo.css"/>
+		<script>
+			function DestroiTerra() {
+				document.getElementById("Terra").src="_imagens/terradestruida.png";
+			}
+		</script>
+	</head>
+	
+	<body>
+		<header>
+			<div class="cabecalho">
+				<nav class="menu">
+					<ul>
+						<li><a href="Home.html">Home</a></li>
+						<li><a href="Estrelas.html">Estrelas</a></li>
+						<li><a href="Buracos_Negros.html">Buracos negros</a></li>
+						<li><a href="Gravidade.html">Gravidade</a></li>
+						<li><a href="Ondas_Gravitacionais.html">Ondas Gravitacionais</a></li>
+						<li><a href="Satelites.html">Satélites</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		
+		<figure id="terra">
+			<img src="_imagens/Terra.png" id="Terra" onclick="DestroiTerra()"/>
+		</figure>
+		
+	
+		
+		<section>
+			<div class="corpo">
+				<h1 class="geral">Planetas</h1>
+				<h2 class="titulo2">Conheça os termos usados para categorizar esses corpos celestes:</h1>
+	
+				<p>A classificação dos tipos de planetas é realizada pelos astrônomos com base nas características em comum existentes entre esses corpos celestes. E, de acordo com o critério utilizado, diferentes categorizações podem ser impostas ao mesmo planeta. Elas são realizadas tanto com os planetas do Sistema Solar, quanto com aquelas que orbitam outras estrelas. Ao realizar as categorizações de tipos de planetas, os cientistas podem, por exemplo, verificar a existência das condições materiais que possibilitam vida no planeta Terra em outros corpos celestes. Nesse artigo, vamos conhecer algumas das classificações existentes até então, bem como os critério adotados para fazê-las.
+				Como é feita a categorização dos tipos de planetas.</p>
+
+				<p>São diversos os critérios adotados para criação das categorias dos tipos de planetas. Antes de saber que esses corpos celestes também existem fora do Sistema Solar, apenas os planetas principais – aqueles que possuem orbita em torno do Sol - eram categorizados. Eles eram divididos em tipos de planetas: os planetas rochosos e os planetas gasosos. Esses dois tipos de planetas são denominados com base na constituição dos corpos celestes. O primeiro grupo também pode ser chamado de interiores, menores, terrestres ou telúricos. Eles são caracterizados por possuir pequenas dimensões, grandes densidades e baixo número de satélites naturais. Esse grupo é constituído por Mercúrio, Vênus, Terra e Marte. Os planetas gasosos também podem ser chamados de exteriores ou gigantes. Essa última denominação dá conta das dimensões desses corpos celestes. E, diferentes dos planetas pequenos, eles possuem baixa densidade e elevado número de satélites naturais. Júpiter, Saturno, Urano e Netuno integram esse grupo. A partir da descoberta de planetas fora do Sistema Solar, outros tipos de planetas foram criados. A principal delas é a de exoplanetas. Essa categorização é comum a todos aquelas que estão fora da órbita do Sol. Eles podem orbitar estrelas pulsares ou anãs castanhas ou não possuir órbita livre pelo no espaço. A maior parte dos exoplanetas é caracterizada por possuir grandes dimensões e ser formado por gases. </p>
+				
+				<figure id="planetas">
+					<figcaption>Planetas que compõem nosso sistema solar</figcaption>
+					<img src="_imagens/planetas.jpg"/>
+				</figure>
+				
+				O Sistema Solar formou-se há cerca de 4,7 bilhões de anos. Contudo, sua origem ainda é questionada, visto que não há uma teoria que satisfaça inteiramente todas as questões que perpassam a formação do Sol e dos planetas. Entretanto, atualmente, há uma teoria mais aceita entre a comunidade científica e astronômica: a teoria da nebulosa solar.
+				Essa teoria foi formulada inicialmente por René Descartes no ano de 1644, sendo reformulada por Immanuel Kant em 1775 e, depois, por Pierre-Simon de Laplace em 1796. A teoria formulada por Laplace supunha hipoteticamente que o Sol formou-se a partir da rotação de uma nuvem que ao se contrair com influência da gravidade, aumentou sua velocidade entrando, então, em colapso. Assim, o Sol formou-se devido à concentração central da nebulosa e os planetas formaram-se a partir dos remanescentes da nuvem molecular em colapso.
+		
+		
+			</div>
+		</section>
+	
+	
+	
+	
+	
+	
+	</body>
+</html>
